@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GoEuroTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GoEuroTest_jar</output-path>
+    <root id="archive" name="GoEuroTest.jar">
+      <element id="module-output" name="GoEuroTest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20131018/json-20131018.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
